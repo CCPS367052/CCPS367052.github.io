@@ -1,1 +1,32 @@
+p {
+  font-family:Georgia;
+  color:cornflowerblue;
+}
 
+ul {
+  color:purple;
+  font-family:times-new-roman;
+}
+
+ol {
+  color:purple;
+  font-family:times-new-roman;
+}
+
+h1 {
+  font-family:Georgia;
+  color:red;
+}
+
+header {
+  font-family:Georgia;
+  color:red;
+}
+body {
+  font-family:burbank-big-condensed;
+  color:green;
+}
+footer {
+  font-family:burbank-big-condensed;
+  color:green;
+}
